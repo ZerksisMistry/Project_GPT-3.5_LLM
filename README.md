@@ -1,5 +1,9 @@
 # Explanation and Game – Play Capabilities of Modern AI and LLMs
 
+<a href="https://th.bing.com/th/id/OIG.1wYQFtpOuUIcvUoTCdmG?pid=ImgGn">
+   <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/c1343a2fd2f0ee15d19f63df93927b35a20901b5/Google%20Colab%20Logo.png" alt="Google Colab Logo" width="100" height="50"/>
+</a>
+
 ## Introduction
 
 This repository has the information and the code that I have used in my experimentaitons and writing my dissertaion for my MSc in Advanced Computer Science with AI. Overall, my project, titled "Explanation and Game-Play Capabilities of Modern AI and Large Language Models (LLMs)," delves into the capabilities of advanced and most recently introduced LLMs. It examines their performance across diverse prompts, use-cases, and notably, in strategic gameplay, highlighting their proficiency in providing detailed explanations.
