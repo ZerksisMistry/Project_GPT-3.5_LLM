@@ -32,6 +32,14 @@ Our project, meticulously developed within a Google Colab environment, showcases
 [Google Colab Notebook](https://colab.research.google.com/drive/1e0pEE_1bHZnPKVEnh9TGhmUWwg4T9gpk?usp=sharing)
 
 
+## Library Dependencies
+
+**Ensure you have:**
+- Python (version 3.x recommended)
+- Necessary libraries and dependencies as listed in the Colab Notebook.
+
+**Installation:**
+git clone [repository-link]
 
 
 
