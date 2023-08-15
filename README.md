@@ -22,7 +22,7 @@ This documentation presents the development and exploration of a chatbot powered
 Our project, meticulously developed within a Google Colab environment, showcases the versatile capabilities of the GPT-3.5 LLM in diverse scenarios and tasks.
 </p>
 
-`Project.ipynb`: This is our main notebook with all our experimentations. 
+`Project.ipynb`: This is our main notebook with all our project experimentations leveraging the capabilities of GPT-3.5 LLM. 
 
 ### 🌟 Features
    
