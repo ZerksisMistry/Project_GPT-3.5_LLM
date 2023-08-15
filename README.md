@@ -2,7 +2,7 @@
 
 <a href="https://www.bing.com/create?toWww=1&redig=2C515D4EAC1C4E42A8570BD3DA3B6064">
    <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/ab909bfcd8f8a5e1e0f7df82f5fdf14425389573/GitHub_Picture.png" 
-      width="900" height="300"/">
+      width="1000" height="300"/">
 </a>
 
 ## Introduction
