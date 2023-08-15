@@ -1,7 +1,7 @@
 # Explanation and Game – Play Capabilities of Modern AI and LLMs
 
-<a href="https://th.bing.com/th/id/OIG.1wYQFtpOuUIcvUoTCdmG?pid=ImgGn">
-   <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/366b0059cb06ff7633f3f17f3bf492c8f2b99651/NLP%20Image.jpeg" alt="NLP Image" width="300" height="300"/>
+<a href="https://www.bing.com/create?toWww=1&redig=2C515D4EAC1C4E42A8570BD3DA3B6064">
+   <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/394a58c4dc3a8a5ea05501317adff38776ceda99/GitHub_Image.png" alt="NLP Image" width="300" height="300"/>
 </a>
 
 ## Introduction
