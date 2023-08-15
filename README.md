@@ -32,8 +32,7 @@ Our project, meticulously developed within a Google Colab environment, showcases
   
 - 💡 **Detailed Comments:** <p align="justify"> Navigate through our code effortlessly with the aid of comprehensive comments, providing context and clarity for each block of code. </p>
 
-
-**Link to Colab:** 
+### Link to Colab:
 
 <a href="https://colab.research.google.com/drive/1e0pEE_1bHZnPKVEnh9TGhmUWwg4T9gpk?usp=sharing">
    <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/c1343a2fd2f0ee15d19f63df93927b35a20901b5/Google%20Colab%20Logo.png" alt="Google Colab Logo" width="100" height="50"/>
@@ -95,18 +94,18 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 **Literature Summary:**
 
 - **Historical Overview:** <p align="justify"> From the Turing Test's inception to today's advances, chart the journey of machine comprehension.</p>
-- **Research Gap:** Our study targets an unexplored niche: LLMs' strategy and self-explanation in games.
-- **LLM Impact:** Recent literature underscores LLMs' transformative potential across varied sectors.
-- **Explainability in AI:** AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilites of the LLMs.
-- **Towards AGI:** Lastly, discussions around Artificial General Intelligence, or AGI, are abundant but often speculative. The literature revealed a need for empirical evidence to support claims and theories about AGI’s potential and challenges.
+- **Research Gap:** <p align="justify"> Our study targets an unexplored niche: LLMs' strategy and self-explanation in games.</p>
+- **LLM Impact:** <p align="justify"> Recent literature underscores LLMs' transformative potential across varied sectors.</p>
+- **Explainability in AI:** <p align="justify"> AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilites of the LLMs.</p>
+- **Towards AGI:** <p align="justify"> Lastly, discussions around Artificial General Intelligence, or AGI, are abundant but often speculative. The literature revealed a need for empirical evidence to support claims and theories about AGI’s potential and challenges.</p>
 
-**Methodology:** Methodology encompasses diverse LLM evaluations, strategic gameplay tests in classics, zero-shot math task automation, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.
+**Methodology:** <p align="justify"> Methodology encompasses diverse LLM evaluations, strategic gameplay tests in classics, zero-shot math task automation, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.</p>
 
-**Analysis:** In-depth evaluation of gameplay strategies and explanatory capabilities of LLMs.
+**Analysis:** <p align="justify"> In-depth evaluation of gameplay strategies and explanatory capabilities of LLMs.</p>
 
-**Proposed OpenAI Framework:** Unveil our tailored framework for understanding OpenAI API interactions.
+**Proposed OpenAI Framework:** <p align="justify"> Unveil our tailored framework for understanding OpenAI API interactions.</p>
 
-**Conclusion & Recommendations:** Enlisted key findings and our propositions for the broader AI ecosystem.
+**Conclusion & Recommendations:** <p align="justify"> Enlisted key findings and our propositions for the broader AI ecosystem.</p>
 
 
 ## 🤝 Contributions
