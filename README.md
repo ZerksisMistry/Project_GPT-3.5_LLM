@@ -35,11 +35,13 @@ Our project, meticulously developed within a Google Colab environment, showcases
 ## Requirements and Setup
 
 **Prerequisites**
+
 - Python (version 3.x recommended)
 - Necessary libraries and dependencies as listed in the Colab Notebook.
 - OpenAI Python client
 
 **Installation:**
+
 git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]
 
 `!pip install openai`
@@ -57,6 +59,7 @@ openai.api_key = 'YOUR_OPENAI_API_KEY'
 Replace `YOUR_OPENAI_API_KEY` with your OpenAI API Key.
 
 **Usage:**
+
 To engage with the AI chatbot and delve deep into its strategic gameplay insights:
 - Open the Google Colab notebook.
 - Execute the cells in sequence.
@@ -64,7 +67,37 @@ To engage with the AI chatbot and delve deep into its strategic gameplay insight
 - Experience the chat-bot system powered by GPT-3.5 LLM for prompts and automation tasks.
 - Experience the AI's strategic gameplay prowess in the interactive sections.
 
+## Presentation Highlights
 
+Embark on a journey through our comprehensive exploration of various Large Language Models (LLMs). We've delved deep into models such as GPT-4, Google Bard, Claude-2, and LLaMA-2, emphasizing their capabilities with zero-shot prompts. A special focus has been laid on GPT-3.5, assessing its performance across zero-shot, one-shot, and few-shot prompts, as well as its application in automation tasks and interactive gameplay.
+
+**Research Objectives:**
+
+Our core mission - assessing LLMs for gameplay and explanatory prowess.
+
+**Literature Summary:**
+
+- **Historical Overview:** From the Turing Test's inception to today's advances, chart the journey of machine comprehension.
+- **Research Gap:** Our study targets an unexplored niche: LLMs' strategy and self-explanation in games.
+- **LLM Impact:** Recent literature underscores LLMs' transformative potential across varied sectors.
+- **Explainability in AI:** AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilites of the LLMs.
+- **Towards AGI:** Lastly, discussions around Artificial General Intelligence, or AGI, are abundant but often speculative. The literature revealed a need for empirical evidence to support claims and theories about AGI’s potential and challenges.
+
+**Methodology:**
+
+Methodology encompasses diverse LLM evaluations, strategic gameplay tests in classics, zero-shot math task automation, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.
+
+**Analysis:** 
+
+In-depth evaluation of gameplay strategies and explanatory capabilities of LLMs.
+
+**Proposed OpenAI Framework:** 
+
+Unveil our tailored framework for understanding OpenAI API interactions.
+
+**Conclusion & Recommendations:** 
+
+Distill key findings and our propositions for the broader AI ecosystem.
 
 
 
