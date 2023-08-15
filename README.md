@@ -30,7 +30,7 @@ Our project, meticulously developed within a Google Colab environment, showcases
   
 - 🧩 **Modular Code Design:** <p align="justify"> Our code is structured for clarity, adaptability, and ease of understanding, ensuring users can follow along and modify as needed. </p>
   
-- 💡 <p align="justify"> **Detailed Comments:** Navigate through our code effortlessly with the aid of comprehensive comments, providing context and clarity for each block of code. </p>
+-<p align="justify"> 💡 **Detailed Comments:** Navigate through our code effortlessly with the aid of comprehensive comments, providing context and clarity for each block of code. </p>
 
 
 **Link to Colab:** 
