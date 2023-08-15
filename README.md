@@ -57,8 +57,8 @@ The notebook was developed in the Colab Jupyter Environment.
 ```
 git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]
 
-!pip install openai        ## for the use of OpenAI API Key
-!pip install python-chess  ## for chess board representation
+!pip install openai        # for the use of OpenAI API Key
+!pip install python-chess  # for chess board representation
 ```
 
 **OpenAI API Setup:**
