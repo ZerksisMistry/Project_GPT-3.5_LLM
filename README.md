@@ -15,7 +15,7 @@ This documentation presents the development and exploration of a chatbot powered
 
 ## 📚 Project Resources
 <p align="justify">
-Our project, meticulously developed within a Google Colab environment, showcases the versatile capabilities of the GPT-3.5 LLM in diverse scenarios and tasks.
+   Our project, meticulously developed within a Google Colab environment, showcases the versatile capabilities of the GPT-3.5 LLM in diverse scenarios and tasks.
 </p>
 
 ### 🌟 Features
