@@ -45,7 +45,7 @@ Our project, meticulously developed within a Google Colab environment, showcases
 
 ## 💻 Requirements and Setup
 
-**Prerequisites**
+**Prerequisites:**
 
 The notebook was developed in the Colab Jupyter Environment.
 
