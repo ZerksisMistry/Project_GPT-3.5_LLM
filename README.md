@@ -45,16 +45,20 @@ Our project, meticulously developed within a Google Colab environment, showcases
 
 **Prerequisites**
 
+The notebook was developed in the Colab Jupyter Environment.
+
 - Python (version 3.x recommended)
 - Necessary libraries and dependencies as listed in the Colab Notebook.
 - OpenAI Python client
+
 
 **Installation:**
 
 ```
 git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]
 
-!pip install openai
+!pip install openai        ## for the use of OpenAI API Key
+!pip install python-chess  ## for chess board representation
 ```
 
 **OpenAI API Setup:**
