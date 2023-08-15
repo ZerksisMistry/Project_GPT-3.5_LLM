@@ -1,7 +1,7 @@
 # Explanation and Game – Play Capabilities of Modern AI and LLMs
 
 <a href="https://www.bing.com/create?toWww=1&redig=2C515D4EAC1C4E42A8570BD3DA3B6064">
-   <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/ab909bfcd8f8a5e1e0f7df82f5fdf14425389573/GitHub_Picture.png" 
+   <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/6063e985a93482b0a1f3fa74da4aebe3fd392688/Extras/GitHub_Picture.png" 
       width="840" height="290"/">
 </a>
 
@@ -39,7 +39,7 @@ Our project, meticulously developed within a Google Colab environment, showcases
 ### Link to Colab:
 
 <a href="https://colab.research.google.com/drive/1e0pEE_1bHZnPKVEnh9TGhmUWwg4T9gpk?usp=sharing">
-   <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/c1343a2fd2f0ee15d19f63df93927b35a20901b5/Google%20Colab%20Logo.png" alt="Google Colab Logo" width="100" height="50"/>
+   <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/6063e985a93482b0a1f3fa74da4aebe3fd392688/Extras/Google%20Colab%20Logo.png" alt="Google Colab Logo" width="100" height="50"/>
 </a>
 
 [Google Colab Notebook - Project](https://colab.research.google.com/drive/1e0pEE_1bHZnPKVEnh9TGhmUWwg4T9gpk?usp=sharing)
@@ -111,7 +111,7 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 
 **Proposed OpenAI Framework:** <p align="justify"> Unveil our tailored framework for understanding OpenAI API interactions.</p>
 
-<img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/ea547dd1b93db7c62b51b23c0059e83ac08d967a/OpenAI%20API%20Framework.png" 
+<img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/6063e985a93482b0a1f3fa74da4aebe3fd392688/Extras/OpenAI%20API%20Framework.png" 
    width="700" height="500" alt="OpenAI Framework">
 
 **Conclusion & Recommendations:** <p align="justify"> Enlisted key findings and our propositions for the broader AI ecosystem.</p>
