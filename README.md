@@ -49,9 +49,9 @@ Our project, meticulously developed within a Google Colab environment, showcases
 
 The notebook was developed in the Colab Jupyter Environment.
 
-- Python (version 3.x recommended)
+- Python (version 3.x recommended).
 - Necessary libraries and dependencies as listed in the Colab Notebook.
-- OpenAI Python client
+- OpenAI Python client.
 
 
 **Installation:**
