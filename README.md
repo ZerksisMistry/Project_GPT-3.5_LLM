@@ -67,6 +67,9 @@ To engage with the AI chatbot and delve deep into its strategic gameplay insight
 - Experience the chat-bot system powered by GPT-3.5 LLM for prompts and automation tasks.
 - Experience the AI's strategic gameplay prowess in the interactive sections.
 
+**Tokenization with TikToken:**
+Leverage OpenAI's [TikToken tokenizer](https://github.com/openai/tiktoken) for efficient token counting within text strings.
+
 ## Presentation Highlights
 
 Embark on a journey through our comprehensive exploration of various Large Language Models (LLMs). We've delved deep into models such as GPT-4, Google Bard, Claude-2, and LLaMA-2, emphasizing their capabilities with zero-shot prompts. A special focus has been laid on GPT-3.5, assessing its performance across zero-shot, one-shot, and few-shot prompts, as well as its application in automation tasks and interactive gameplay.
@@ -87,7 +90,10 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 
 **Proposed OpenAI Framework:** Unveil our tailored framework for understanding OpenAI API interactions.
 
-**Conclusion & Recommendations:** Distill key findings and our propositions for the broader AI ecosystem.
+**Conclusion & Recommendations:** Enlisted key findings and our propositions for the broader AI ecosystem.
+
+## Contributions
+Contributions are the backbone of open-source projects! Fork our repository, apply your insights, and propose a pull request. Every bit of constructive feedback and enhancement is treasured.
 
 
 
