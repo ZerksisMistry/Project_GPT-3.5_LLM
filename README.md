@@ -1,1 +1,1 @@
-# Explanation and Game – Play Capabilities of Modern AI and Large Language Models Project
+# Explanation and Game – Play Capabilities of Modern AI and LLMs
