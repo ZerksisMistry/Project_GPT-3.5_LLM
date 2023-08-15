@@ -22,6 +22,8 @@ This documentation presents the development and exploration of a chatbot powered
 Our project, meticulously developed within a Google Colab environment, showcases the versatile capabilities of the GPT-3.5 LLM in diverse scenarios and tasks.
 </p>
 
+`Project.ipynb`: This is our main notebook with all our experimentations. 
+
 ### 🌟 Features
    
 - 🖋 **Prompt-Based Interactions:**  <p align="justify"> The code encompasses distinct use-cases for zero-shot, one-shot, and few-shot prompting, exhibiting the vast scope of GPT-3.5 interactions. It also includes interactive features for the user to continue the conversation with their follow-up prompts or end the conversation. </p>
