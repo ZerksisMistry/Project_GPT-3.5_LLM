@@ -109,7 +109,8 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 
 **Proposed OpenAI Framework:** <p align="justify"> Unveil our tailored framework for understanding OpenAI API interactions.</p>
 
-<img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/ea547dd1b93db7c62b51b23c0059e83ac08d967a/OpenAI%20API%20Framework.png" width="200" height="200" alt="OpenAI Framework">
+<img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/ea547dd1b93db7c62b51b23c0059e83ac08d967a/OpenAI%20API%20Framework.png" 
+   width="600" height="600" alt="OpenAI Framework">
 
 **Conclusion & Recommendations:** <p align="justify"> Enlisted key findings and our propositions for the broader AI ecosystem.</p>
 
