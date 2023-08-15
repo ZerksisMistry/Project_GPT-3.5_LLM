@@ -28,7 +28,7 @@ Our project, meticulously developed within a Google Colab environment, showcases
 
 - 🎮  **Interactive Gameplay Demonstrations:** <p align="justify"> Engage with the LLM in strategic and logical games like Tic-Tac-Toe, Connect-Four, and Chess, observing its gameplay strategies and decision-making. </p>
 
-- 🧮 **Automation Tasks:** <p align="justify"> Explore our mathematical automation tasks, purposefully designed to showcase GPT-3.5's expertise in zero-shot prompting. Witness its capability to generate examples mirroring the provided zero-shot prompts, autonomously solve them, and subsequently validate its own solutions. </p>
+- 🧮 **Automation Tasks:** <p align="justify"> Explore our mathematical automation tasks, purposefully designed to showcase GPT-3.5's capabilities in responding to the zero-shot prompts. Witness its capability to generate examples mirroring the provided zero-shot prompts, autonomously solve them, and subsequently validate its own solutions. </p>
   
 - 🧩 **Modular Code Design:** <p align="justify"> Our code is structured for clarity, adaptability, and ease of understanding, ensuring users can follow along and modify as needed. </p>
   
