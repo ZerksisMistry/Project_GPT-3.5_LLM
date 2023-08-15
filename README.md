@@ -41,17 +41,18 @@ Our project, meticulously developed within a Google Colab environment, showcases
 
 **Installation:**
 git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]
+
 `!pip install openai`
 
 **OpenAI API Setup:**
 
 Incorporate your OpenAI API key:
 
-`
+```
 import openai
 
 openai.api_key = 'YOUR_OPENAI_API_KEY'
-`
+```
 
 Replace `YOUR_OPENAI_API_KEY` with your OpenAI API Key.
 
