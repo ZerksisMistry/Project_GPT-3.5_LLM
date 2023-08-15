@@ -20,9 +20,7 @@ Our project, meticulously developed within a Google Colab environment, showcases
 
 ### 🌟 Features
 
-<p align="justify">   
-- 🖋 **Prompt-Based Interactions:** The code encompasses distinct use-cases for zero-shot, one-shot, and few-shot prompting, exhibiting the vast scope of GPT-3.5 interactions. It also includes interactive features for the user to continue the conversation with their follow-up prompts or end the conversation.
-</p>
+- 🖋 **Prompt-Based Interactions:** <p align="justify"> The code encompasses distinct use-cases for zero-shot, one-shot, and few-shot prompting, exhibiting the vast scope of GPT-3.5 interactions. It also includes interactive features for the user to continue the conversation with their follow-up prompts or end the conversation.</p>
   
 - 🎮 **Interactive Gameplay Demonstrations:** Engage with the LLM in strategic and logical games like Tic-Tac-Toe, Connect-Four, and Chess, observing its gameplay strategies and decision-making.
   
