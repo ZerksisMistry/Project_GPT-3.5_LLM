@@ -30,7 +30,7 @@ Our project, meticulously developed within a Google Colab environment, showcases
   
 - 🧩 **Modular Code Design:** <p align="justify"> Our code is structured for clarity, adaptability, and ease of understanding, ensuring users can follow along and modify as needed. </p>
   
--<p align="justify"> 💡 **Detailed Comments:** Navigate through our code effortlessly with the aid of comprehensive comments, providing context and clarity for each block of code. </p>
+- 💡 **Detailed Comments:** <p align="justify"> Navigate through our code effortlessly with the aid of comprehensive comments, providing context and clarity for each block of code. </p>
 
 
 **Link to Colab:** 
@@ -86,15 +86,15 @@ Leverage OpenAI's [TikToken Tokenizer](https://github.com/openai/tiktoken) for e
 
 
 ## 📌 Presentation Highlights
-
+<p align="justify"> 
 Embark on a journey through our comprehensive exploration of various Large Language Models (LLMs). We've delved deep into models such as GPT-4, Google Bard, Claude-2, and LLaMA-2, emphasizing their capabilities with zero-shot prompts. A special focus has been laid on GPT-3.5, assessing its performance across zero-shot, one-shot, and few-shot prompts, as well as its application in automation tasks and interactive gameplay.
-
+</p>
 
 **Research Objectives:** Our core mission - assessing LLMs for gameplay and explanatory prowess.
 
 **Literature Summary:**
 
-- **Historical Overview:** From the Turing Test's inception to today's advances, chart the journey of machine comprehension.
+- **Historical Overview:** <p align="justify"> From the Turing Test's inception to today's advances, chart the journey of machine comprehension.</p>
 - **Research Gap:** Our study targets an unexplored niche: LLMs' strategy and self-explanation in games.
 - **LLM Impact:** Recent literature underscores LLMs' transformative potential across varied sectors.
 - **Explainability in AI:** AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilites of the LLMs.
