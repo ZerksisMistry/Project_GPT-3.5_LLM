@@ -32,14 +32,38 @@ Our project, meticulously developed within a Google Colab environment, showcases
 [Google Colab Notebook](https://colab.research.google.com/drive/1e0pEE_1bHZnPKVEnh9TGhmUWwg4T9gpk?usp=sharing)
 
 
-## Library Dependencies
+## Requirements and Setup
 
-**Ensure you have:**
+**Prerequisites**
 - Python (version 3.x recommended)
 - Necessary libraries and dependencies as listed in the Colab Notebook.
+- OpenAI Python client
 
 **Installation:**
-git clone [repository-link]
+git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]
+`!pip install openai`
+
+**OpenAI API Setup:**
+
+Incorporate your OpenAI API key:
+
+`
+import openai
+
+openai.api_key = 'YOUR_OPENAI_API_KEY'
+`
+
+Replace `YOUR_OPENAI_API_KEY` with your OpenAI API Key.
+
+**Usage:**
+To engage with the AI chatbot and delve deep into its strategic gameplay insights:
+- Open the Google Colab notebook.
+- Execute the cells in sequence.
+- Use your OpenAI API Key in the respective area to leverage the capabilites of the LLM.
+- Experience the chat-bot system powered by GPT-3.5 LLM for prompts and automation tasks.
+- Experience the AI's strategic gameplay prowess in the interactive sections.
+
+
 
 
 
