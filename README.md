@@ -65,8 +65,6 @@ git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]
 
 **OpenAI API Setup:**
 
-Incorporate your OpenAI API key:
-
 ```
 import openai
 
