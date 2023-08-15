@@ -42,9 +42,11 @@ Our project, meticulously developed within a Google Colab environment, showcases
 
 **Installation:**
 
-`git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]`
+```
+git clone [gh repo clone ZerksisMistry/Project_GPT-3.5_LLM]
 
-`!pip install openai`
+!pip install openai
+```
 
 **OpenAI API Setup:**
 
