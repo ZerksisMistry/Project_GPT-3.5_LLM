@@ -71,9 +71,7 @@ To engage with the AI chatbot and delve deep into its strategic gameplay insight
 
 Embark on a journey through our comprehensive exploration of various Large Language Models (LLMs). We've delved deep into models such as GPT-4, Google Bard, Claude-2, and LLaMA-2, emphasizing their capabilities with zero-shot prompts. A special focus has been laid on GPT-3.5, assessing its performance across zero-shot, one-shot, and few-shot prompts, as well as its application in automation tasks and interactive gameplay.
 
-**Research Objectives:**
-
-Our core mission - assessing LLMs for gameplay and explanatory prowess.
+**Research Objectives:** Our core mission - assessing LLMs for gameplay and explanatory prowess.
 
 **Literature Summary:**
 
@@ -83,21 +81,13 @@ Our core mission - assessing LLMs for gameplay and explanatory prowess.
 - **Explainability in AI:** AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilites of the LLMs.
 - **Towards AGI:** Lastly, discussions around Artificial General Intelligence, or AGI, are abundant but often speculative. The literature revealed a need for empirical evidence to support claims and theories about AGI’s potential and challenges.
 
-**Methodology:**
+**Methodology:** Methodology encompasses diverse LLM evaluations, strategic gameplay tests in classics, zero-shot math task automation, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.
 
-Methodology encompasses diverse LLM evaluations, strategic gameplay tests in classics, zero-shot math task automation, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.
+**Analysis:** In-depth evaluation of gameplay strategies and explanatory capabilities of LLMs.
 
-**Analysis:** 
+**Proposed OpenAI Framework:** Unveil our tailored framework for understanding OpenAI API interactions.
 
-In-depth evaluation of gameplay strategies and explanatory capabilities of LLMs.
-
-**Proposed OpenAI Framework:** 
-
-Unveil our tailored framework for understanding OpenAI API interactions.
-
-**Conclusion & Recommendations:** 
-
-Distill key findings and our propositions for the broader AI ecosystem.
+**Conclusion & Recommendations:** Distill key findings and our propositions for the broader AI ecosystem.
 
 
 
