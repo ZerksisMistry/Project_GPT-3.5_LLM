@@ -14,15 +14,18 @@ This documentation presents the development and exploration of a chatbot powered
 </p>
 
 ## 📚 Project Resources
-
+<p align="justify">
 Our project, meticulously developed within a Google Colab environment, showcases the versatile capabilities of the GPT-3.5 LLM in diverse scenarios and tasks.
+</p>
 
 ### 🌟 Features
+<p align="justify">
 - 🖋 **Prompt-Based Interactions:** The code encompasses distinct use-cases for zero-shot, one-shot, and few-shot prompting, exhibiting the vast scope of GPT-3.5 interactions. It also includes interactive features for the user to continue the conversation with their follow-up prompts or end the conversation.
 - 🎮 **Interactive Gameplay Demonstrations:** Engage with the LLM in strategic and logical games like Tic-Tac-Toe, Connect-Four, and Chess, observing its gameplay strategies and decision-making.
 - 🧮 **Automation Tasks:** Dive into mathematical automation tasks, designed specifically to demonstrate the proficiency of GPT-3.5 in zero-shot prompting scenarios and to understand their capabilites of generating similar examples as the zero-shot prompt provided in the code as an example, automatically solving the generated examples and self-verification of its own responses.
 - 🧩 **Modular Code Design:** Our code is structured for clarity, adaptability, and ease of understanding, ensuring users can follow along and modify as needed.
 - 💡 **Detailed Comments:** Navigate through our code effortlessly with the aid of comprehensive comments, providing context and clarity for each block of code.
+</p>
 
 **Link to Colab:** 
 
@@ -62,25 +65,29 @@ openai.api_key = 'YOUR_OPENAI_API_KEY'
 Replace `YOUR_OPENAI_API_KEY` with your OpenAI API Key.
 
 **Usage:**
-
+<p align="justify">
 To engage with the AI chatbot and delve deep into its strategic gameplay insights:
 - Open the Google Colab notebook.
 - Execute the cells in sequence.
 - Use your OpenAI API Key in the respective area to leverage the capabilites of the LLM.
 - Experience the chat-bot system powered by GPT-3.5 LLM for prompts and automation tasks.
 - Experience the AI's strategic gameplay prowess in the interactive sections.
+</p>
 
 **Tokenization with TikToken:**
+<p align="justify">
 Leverage OpenAI's [TikToken Tokenizer](https://github.com/openai/tiktoken) for efficient token counting within text strings.
+</p>
 
 ## 📌 Presentation Highlights
-
+<p align="justify">
 Embark on a journey through our comprehensive exploration of various Large Language Models (LLMs). We've delved deep into models such as GPT-4, Google Bard, Claude-2, and LLaMA-2, emphasizing their capabilities with zero-shot prompts. A special focus has been laid on GPT-3.5, assessing its performance across zero-shot, one-shot, and few-shot prompts, as well as its application in automation tasks and interactive gameplay.
+</p>
 
 **Research Objectives:** Our core mission - assessing LLMs for gameplay and explanatory prowess.
 
 **Literature Summary:**
-
+<p align="justify">
 - **Historical Overview:** From the Turing Test's inception to today's advances, chart the journey of machine comprehension.
 - **Research Gap:** Our study targets an unexplored niche: LLMs' strategy and self-explanation in games.
 - **LLM Impact:** Recent literature underscores LLMs' transformative potential across varied sectors.
@@ -94,9 +101,12 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 **Proposed OpenAI Framework:** Unveil our tailored framework for understanding OpenAI API interactions.
 
 **Conclusion & Recommendations:** Enlisted key findings and our propositions for the broader AI ecosystem.
+</p>
 
 ## 🤝 Contributions
+<p align="justify">
 Contributions are the backbone of open-source projects! Fork our repository, apply your insights, and propose a pull request. Every bit of constructive feedback and enhancement is treasured.
+</p>
 
 
 
