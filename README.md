@@ -103,7 +103,7 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 - **Explainability in AI:** <p align="justify"> AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilites of the LLMs.</p>
 - **Towards AGI:** <p align="justify"> Lastly, discussions around Artificial General Intelligence, or AGI, are abundant but often speculative. The literature revealed a need for empirical evidence to support claims and theories about AGI’s potential and challenges.</p>
 
-**Methodology:** <p align="justify"> Methodology encompasses diverse LLM evaluations, strategic gameplay tests in classics, zero-shot math task automation, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.</p>
+**Methodology:** <p align="justify"> Methodology encompasses diverse LLM evaluations, strategic gameplay tests, zero-shot math task automation, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.</p>
 
 **Analysis:** <p align="justify"> In-depth evaluation of gameplay strategies and explanatory capabilities of LLMs.</p>
 
