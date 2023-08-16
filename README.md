@@ -3,7 +3,7 @@
 <a href="https://www.bing.com/create?toWww=1&redig=2C515D4EAC1C4E42A8570BD3DA3B6064">
    <img src="https://github.com/ZerksisMistry/Project_GPT-3.5_LLM/blob/6063e985a93482b0a1f3fa74da4aebe3fd392688/Extras/GitHub_Picture.png" 
       width="840" height="290"/">
-</a>
+</a> 
 
 ## 🤖 Introduction 
  
