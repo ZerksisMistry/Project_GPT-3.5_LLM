@@ -117,6 +117,14 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 **Conclusion & Recommendations:** <p align="justify"> Enlisted key findings and our propositions for the broader AI ecosystem.</p>
 
 
+## Licensing Information
+
+<p align="justify">This repository contains various documents and files related to our comprehensive research on Large Language Models (LLMs) and their applications. While the primary content, including the `Project.ipynb`, Project_Presentation, and other associated files, are distributed under the Open Software License 3.0 (OSL 3.0), it's essential to be aware of the specific licensing terms.</p>
+
+<p align="justify">The detailed licensing terms governing this repository can be found in the LICENSE.txt file. We urge all users, contributors, and researchers accessing our work to thoroughly review the `LICENSE.txt` to ensure a clear understanding of the rights and limitations it imposes.</p>
+
+Your respect for the licensing terms is crucial in acknowledging the efforts and contributions made in this project.
+
 ## 🤝 Contributions
 <p align="justify">
 Contributions are the backbone of open-source projects! Fork our repository, apply your insights, and propose a pull request. Every bit of constructive feedback and enhancement is treasured.
