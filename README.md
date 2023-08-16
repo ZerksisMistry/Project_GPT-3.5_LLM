@@ -13,7 +13,7 @@ This repository has the information and the code that I have used in my experime
 
 <p align="justify">
    
-This documentation presents the development and exploration of a chatbot powered by OpenAI's GPT-3.5 (`text-davinci-003 engine`), specifically designed for strategic gameplay analysis and automation tasks. Throughout our study, we experimented with zero-shot, one-shot, and few-shot prompting techniques to analyse the explainable capabilties of the OpenAI's GPT-3.5 LLM. By harnessing these different approaches, the chatbot not only offers insightful strategic gameplay explanations but also showcases its prowess in automating various tasks and interactions.  
+This documentation presents the development and exploration of a chatbot powered by OpenAI's GPT-3.5 (`text-davinci-003 engine`), specifically designed for strategic gameplay analysis and automation tasks. Throughout our study, we experimented with zero-shot, one-shot, and few-shot prompting techniques to analyse the explainable capabilities of the OpenAI's GPT-3.5 LLM. By harnessing these different approaches, the chatbot not only offers insightful strategic gameplay explanations but also showcases its prowess in automating various tasks and interactions.  
 
 </p>
 
@@ -80,8 +80,8 @@ Replace `YOUR_OPENAI_API_KEY` with your OpenAI API Key.
 To engage with the AI chatbot and delve deep into its strategic gameplay insights:
 - Open the Google Colab notebook.
 - Execute the cells in sequence.
-- Use your OpenAI API Key in the respective area to leverage the capabilites of the LLM.
-- Experience the chat-bot system powered by GPT-3.5 LLM for prompts and automation tasks.
+- Use your OpenAI API Key in the respective area to leverage the capabilities of the LLM.
+- Experience the chatbot system powered by GPT-3.5 LLM for prompts and automation tasks.
 - Experience the AI's strategic gameplay prowess in the interactive sections.
 
 
@@ -102,10 +102,10 @@ Embark on a journey through our comprehensive exploration of various Large Langu
 - **Historical Overview:** <p align="justify"> From the Turing Test's inception to today's advances, chart the journey of machine comprehension.</p>
 - **Research Gap:** <p align="justify"> Our study targets an unexplored niche: LLMs' strategy and self-explanation in games.</p>
 - **LLM Impact:** <p align="justify"> Recent literature underscores LLMs' transformative potential across varied sectors.</p>
-- **Explainability in AI:** <p align="justify"> AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilites of the LLMs.</p>
-- **Towards AGI:** <p align="justify"> Lastly, discussions around Artificial General Intelligence, or AGI, are abundant but often speculative. The literature revealed a need for empirical evidence to support claims and theories about AGI’s potential and challenges.</p>
+- **Explainability in AI:** <p align="justify"> AI's explainability is emerging, but methods to assess LLMs need to be more comprehensive for better understanding of the capabilities of the LLMs.</p>
+- **Towards AGI:** <p align="justify"> Lastly, discussions about Artificial General Intelligence, or AGI, are abundant but often speculative. The literature revealed a need for empirical evidence to support claims and theories about AGI’s potential and challenges.</p>
 
-**Methodology:** <p align="justify"> Methodology encompasses diverse LLM evaluations, strategic gameplay tests, zero-shot math task automations, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.</p>
+**Methodology:** <p align="justify"> Methodology encompasses diverse LLM evaluations, strategic gameplay tests, zero-shot maths task automations, in-depth GPT-3.5 prompt assessments, specific evaluation metrics, and insights into OpenAI's LLM framework.</p>
 
 **Analysis:** <p align="justify"> In-depth evaluation of gameplay strategies and explanatory capabilities of LLMs.</p>
 
