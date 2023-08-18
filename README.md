@@ -5,7 +5,7 @@
       width="840" height="290"/">
 </a> 
 
-## 🤖 Introduction 
+## 🤖 Introduction
  
 <p align="justify">
 This repository has the information and the code that I have used in my experimentation and writing my dissertation for my MSc in Advanced Computer Science with AI. Overall, my project, titled "Explanation and Game-Play Capabilities of Modern AI and Large Language Models (LLMs)", delves into the capabilities of advanced and most recently introduced LLMs. It examines their performance across diverse prompts, use-cases, and notably, in strategic gameplay, highlighting their proficiency in providing detailed explanations.   
